@@ -1,0 +1,26 @@
+2023-04-30 21:50:31 LogWrapper init() ./logs/main.log
+2023-04-30 21:50:31 Bot started with Trade Settings:
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0014, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0014, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.04, 'mingain': 0.14, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0014, 'riskreward': 1.5}
+{'n_ma': 12, 'n_std': 2.5, 'maxspread': 0.0004, 'mingain': 0.0014, 'riskreward': 1.5}
+
+2023-04-30 21:50:31 Bot started
+2023-04-30 21:51:02 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 21:52:04 process_candles triggered:['EUR_CHF', 'GBP_JPY', 'GBP_USD']
+2023-04-30 21:52:14 process_candles triggered:['GBP_CHF', 'EUR_GBP']
+2023-04-30 21:53:06 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 21:54:08 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 21:55:10 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 21:56:01 process_candles triggered:['EUR_CHF', 'GBP_JPY', 'GBP_USD']
+2023-04-30 21:56:12 process_candles triggered:['GBP_CHF', 'EUR_GBP']
+2023-04-30 21:57:03 process_candles triggered:['EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 21:57:14 process_candles triggered:['GBP_CHF']
+2023-04-30 21:58:05 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 21:59:07 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 22:00:09 process_candles triggered:['GBP_CHF', 'EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 22:01:00 process_candles triggered:['EUR_CHF']
+2023-04-30 22:01:11 process_candles triggered:['GBP_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 22:02:02 process_candles triggered:['EUR_CHF', 'GBP_JPY', 'GBP_USD', 'EUR_GBP']
+2023-04-30 22:02:13 process_candles triggered:['GBP_CHF']
