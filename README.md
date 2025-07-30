@@ -1,1 +1,1 @@
-"# Forex-Algo" 
+# Forex-Algo
