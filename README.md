@@ -28,6 +28,8 @@ main.py             # Main entry point
 run_bot.py          # Script to run the trading bot
 api_tests.py        # API test scripts
 README.md           # Project documentation
+```
+
 ## Getting Started
 
 ### Prerequisites
@@ -41,26 +43,31 @@ README.md           # Project documentation
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
+   ```
    *(If `requirements.txt` is missing, install packages as needed for pandas, numpy, requests, etc.)*
 
 ### Configuration
-- Update `bot/settings.json` with your OANDA API credentials and trading preferences.
+- Update `constants/defs.py` with your OANDA API credentials and trading preferences.
 
 ### Running the Bot
 ### Running Tests
 
 ```sh
 python api_tests.py
+```
 
 ### Data Collection
 Collect new data using:
 ```sh
 python infrastructure/collect_data.py
+```
+
 ## Notebooks
 
 Explore and analyze strategies in the `exploration/` folder using Jupyter:
 ```sh
 jupyter notebook exploration/
+```
 
 ## Logging
 - Logs are stored in the `logs/` directory for debugging and monitoring.
@@ -70,4 +77,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## License
 [MIT](LICENSE)
-# Forex-Algo
